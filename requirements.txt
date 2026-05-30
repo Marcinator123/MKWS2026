@@ -1,0 +1,8 @@
+cantera>=3.0
+numpy
+pandas
+matplotlib
+streamlit
+plotly
+scipy
+tqdm
