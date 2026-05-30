@@ -1,5 +1,9 @@
 # Rocket Propellant Combustion Analysis Tool
 
+## Live demo
+
+🚀 **[Open interactive dashboard](https://mkws2026-rocket-propellant.streamlit.app)**
+
 Course project for **Metody komputerowe w spalaniu** (Computer Methods in
 Combustion) — Warsaw University of Technology, Faculty of Power and
 Aeronautical Engineering.
