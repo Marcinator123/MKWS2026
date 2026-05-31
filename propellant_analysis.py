@@ -61,7 +61,7 @@ PROPELLANTS = [
      'OF_range': (0.5, 3.0),
      'note': 'NH3 substituted for N2H4; NO2 used as N2O4 dissociation product'},
     {'name': 'N2O/C2H4',  'fuel': 'C2H4', 'oxidizer': 'N2O',
-     'OF_range': (2.0, 10.0),  'note': ''},
+     'OF_range': (0.5, 10.0),  'note': ''},
 ]
 
 
